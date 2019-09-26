@@ -7,12 +7,11 @@ permalink: /readme
 ## Task List
 
 **!!! Check that all the tasks below are completed before deployment**
-- [ ] Clone github template repo
-- [ ] Create new github repo
-- [ ] Push template to new github repo
-- [ ] Update config file
-- [ ] Configure webhook and secret
-- [ ] Set up netlify deployment
+- [ ] Create new repo from this template
+- [ ] Update config file (title, icon, color, order, etc...)
+- [ ] Configure github webhook and secret
+- [ ] Set up netlify/amplify deployment
+- [ ] Set PDF Lambda env vars
 - [ ] Change domain settings
 
 ## Github
