@@ -38,3 +38,5 @@ folders:
     order:
       - page1.md
       - page2.md
+
+theme: jekyll-theme-minimal
