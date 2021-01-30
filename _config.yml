@@ -1,7 +1,7 @@
-title: OpenDoc Template #----> Required
+title: WorkPal #----> Required
 remote_theme: opendocsg/opendoc-theme
 timezone: Asia/Singapore
-repository: opendocsg/opendoc-template #----> Required
+repository: workpalmobile/opendoc-workpal #----> Required
 plugins:
   - jekyll-include-cache
 baseurl: ''
